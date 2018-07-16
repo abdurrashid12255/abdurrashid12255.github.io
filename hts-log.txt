@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 16 Jul 2018 05:57:58 at http://localhost:7200/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost:7200/ -O1 "C:\My Web Sites\http___localhost_7200_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:58:04	Error: 	"Not Found" (404) at link localhost:7200/about (from localhost:7200/)
+05:58:04	Error: 	"Not Found" (404) at link localhost:7200/faq (from localhost:7200/)
+05:58:04	Error: 	"Not Found" (404) at link localhost:7200/terms-of-service (from localhost:7200/)
+05:58:04	Error: 	"Not Found" (404) at link localhost:7200/privacy-policy (from localhost:7200/)
+05:58:04	Error: 	"Not Found" (404) at link localhost:7200/copyright-notification (from localhost:7200/)
+05:58:12	Error: 	"Not Found" (404) at link localhost:7200/www.facebook.com/account-optimizer (from localhost:7200/verified-neteller-and-bet365-account)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 seconds : 38 links scanned, 31 files written (1028074 bytes overall), 6 files updated [325774 bytes received at 23269 bytes/sec], 71171 bytes transferred using HTTP compression in 2 files, ratio 29%, 2.4 requests per connection
+(6 errors, 0 warnings, 0 messages)
